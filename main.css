@@ -1,0 +1,19 @@
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+form {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.card {
+  margin: 15px 0;
+}
+
+.card-body {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
